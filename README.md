@@ -18,7 +18,7 @@
 - [Library App](https://github.com/GoReala23/se_project_library) – Web app with books and custom UI components
 
  **Contact Me**  
-- [LinkedIn](https://www.linkedin.com/in/hassan-porter-7551aa161/)  
+- [LinkedIn](https://www.linkedin.com/in/hassan-porter/)  
 - [GitHub](https://github.com/GoReala23)
 
 ---
