@@ -12,6 +12,8 @@
  **Open to full-time opportunities** as a Frontend, Backend, or Full-Stack Web Developer.
 
  Some of my featured projects:
+- [JavaScript Jungle]- [JavaScript Jungle](https://github.com/GoReala23/javascript-jungle) – A gamified learning platform built with React (Vite), Node.js, Express, and MongoDB to teach JavaScript logic through interactive visuals and neurodivergent learning styles. *(Work in progress – deployment coming soon)* 
+
 - [TaylorMade](https://github.com/GoReala23/TaylorMade) – Full-stack e-commerce app with cart, saved items, and authentication
 - [Around the U.S.](https://github.com/GoReala23/se_project_aroundtheus) – Responsive gallery with token-based user system
 - [Coffee Shop](https://github.com/GoReala23/se_project_coffeeshop) – Landing page using semantic HTML and BEM structure
